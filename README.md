@@ -8,6 +8,7 @@ References:
   year = {2021},
   booktitle = {SIGIR}
 }  
+
 @article{Diggelmann2020CLIMATEFEVERAD,
   title={CLIMATE-FEVER: A Dataset for Verification of Real-World Climate Claims},
   author={T. Diggelmann and Jordan L. Boyd-Graber and Jannis Bulian and Massimiliano Ciaramita and Markus Leippold},
@@ -15,6 +16,7 @@ References:
   year={2020},
   volume={abs/2012.00614}
 }  
+
 @inproceedings{Wadden2020Scifact,
     title = "Fact or Fiction: Verifying Scientific Claims",
     author = "Wadden, David  and
@@ -33,6 +35,7 @@ References:
     doi = "10.18653/v1/2020.emnlp-main.609",
     pages = "7534--7550"
 }  
+
 @article{Thakur2021Beir,
   title = "BEIR: A Heterogenous Benchmark for Zero-shot Evaluation of Information Retrieval Models",
   author = "Thakur, Nandan and Reimers, Nils and Rücklé, Andreas and Srivastava, Abhishek and Gurevych, Iryna", 
