@@ -1,7 +1,7 @@
 # IR_data_test
-Using ir-datasets.com for some initial data loading and BM25 testing
-
-References:
+Using ir-datasets.com for some initial data loading and BM25 testing  
+  
+References:  
 @inproceedings{macavaney:sigir2021-irds,
   author = {MacAvaney, Sean and Yates, Andrew and Feldman, Sergey and Downey, Doug and Cohan, Arman and Goharian, Nazli},
   title = {Simplified Data Wrangling with ir_datasets},
